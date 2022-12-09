@@ -1,8 +1,5 @@
 opencv-python-headless==4.5.1.48
 keras==2.11.0
-Keras-Applications==1.0.4
-keras-nightly==2.5.0.dev2021032900
-Keras-Preprocessing==1.0.2
 numpy==1.22.4
 streamlit==1.15.2
 matplotlib==3.3.4
